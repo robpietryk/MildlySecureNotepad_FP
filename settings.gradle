@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Mildly Secure Notepad FP"

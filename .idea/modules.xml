@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Mildly_Secure_Notepad_FP.iml" filepath="$PROJECT_DIR$/.idea/modules/Mildly_Secure_Notepad_FP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Mildly_Secure_Notepad_FP.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Mildly_Secure_Notepad_FP.app.iml" />
+    </modules>
+  </component>
+</project>

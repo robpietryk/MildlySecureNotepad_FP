@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Mildly Secure Notepad FP</string>
+    <string name="login_pass">Log in</string>
+    <string name="log_in_to_change_pass">Confirm log in</string>
+    <string name="create_pass">Create password</string>
+    <string name="change_pass">Change password</string>
+    <string name="change_pass_message">Enter your new password for later use.</string>
+    <string name="invalid_pass">Invalid password</string>
+    <string name="cannot_empty">Password cannot be empty</string>
+    <string name="pass_too_short">Password must be longer than 8</string>
+    <string name="do_not_match">Passwords do not match</string>
+    <string name="pass_saved">Password saved</string>
+    <string name="enter_password">Enter password …</string>
+    <string name="confirm_password">Confirm password …</string>
+    <string name="enter_curr_password">Enter current password …</string>
+    <string name="enter_new_password">Enter new password …</string>
+    <string name="create_pass_message">This is your first log in, please create password for later use.</string>
+    <string name="logInUsingPassword">Log In Using Password</string>
+    <string name="logInUsingFingerprint">Log In Using Fingerprint</string>
+</resources>
