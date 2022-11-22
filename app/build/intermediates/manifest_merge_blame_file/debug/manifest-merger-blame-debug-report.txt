@@ -33,43 +33,42 @@
 21-->C:\GitHubRepos\MildlySecureNotepad_FP\app\src\main\AndroidManifest.xml:9:9-54
 22        android:supportsRtl="true"
 22-->C:\GitHubRepos\MildlySecureNotepad_FP\app\src\main\AndroidManifest.xml:10:9-35
-23        android:testOnly="true"
-24        android:theme="@style/Theme.MildlySecureNotepad" >
-24-->C:\GitHubRepos\MildlySecureNotepad_FP\app\src\main\AndroidManifest.xml:11:9-57
-25        <activity android:name="com.robert.mildlysecurenotepadfp.StartActivity" >
-25-->C:\GitHubRepos\MildlySecureNotepad_FP\app\src\main\AndroidManifest.xml:12:9-18:20
-25-->C:\GitHubRepos\MildlySecureNotepad_FP\app\src\main\AndroidManifest.xml:12:19-80
-26            <intent-filter>
-26-->C:\GitHubRepos\MildlySecureNotepad_FP\app\src\main\AndroidManifest.xml:13:13-17:29
-27                <action android:name="android.intent.action.MAIN" />
-27-->C:\GitHubRepos\MildlySecureNotepad_FP\app\src\main\AndroidManifest.xml:14:17-69
-27-->C:\GitHubRepos\MildlySecureNotepad_FP\app\src\main\AndroidManifest.xml:14:25-66
-28
-29                <category android:name="android.intent.category.LAUNCHER" />
-29-->C:\GitHubRepos\MildlySecureNotepad_FP\app\src\main\AndroidManifest.xml:16:17-77
-29-->C:\GitHubRepos\MildlySecureNotepad_FP\app\src\main\AndroidManifest.xml:16:27-74
-30            </intent-filter>
-31        </activity>
-32        <activity android:name="com.robert.mildlysecurenotepadfp.CreatePasswordActivity" />
-32-->C:\GitHubRepos\MildlySecureNotepad_FP\app\src\main\AndroidManifest.xml:19:9-60
-32-->C:\GitHubRepos\MildlySecureNotepad_FP\app\src\main\AndroidManifest.xml:19:19-57
-33        <activity android:name="com.robert.mildlysecurenotepadfp.LogInActivity" />
-33-->C:\GitHubRepos\MildlySecureNotepad_FP\app\src\main\AndroidManifest.xml:20:9-83
-33-->C:\GitHubRepos\MildlySecureNotepad_FP\app\src\main\AndroidManifest.xml:20:19-80
-34        <activity android:name="com.robert.mildlysecurenotepadfp.NotepadActivity" />
-34-->C:\GitHubRepos\MildlySecureNotepad_FP\app\src\main\AndroidManifest.xml:21:9-85
-34-->C:\GitHubRepos\MildlySecureNotepad_FP\app\src\main\AndroidManifest.xml:21:19-82
-35        <activity android:name="com.robert.mildlysecurenotepadfp.MainActivity" />
-35-->C:\GitHubRepos\MildlySecureNotepad_FP\app\src\main\AndroidManifest.xml:22:9-82
-35-->C:\GitHubRepos\MildlySecureNotepad_FP\app\src\main\AndroidManifest.xml:22:19-79
-36        <activity
-36-->[androidx.biometric:biometric:1.0.1] C:\Users\Robert\.gradle\caches\transforms-2\files-2.1\c2054919278027102047810daf888dae\biometric-1.0.1\AndroidManifest.xml:28:9-31:67
-37            android:name="androidx.biometric.DeviceCredentialHandlerActivity"
-37-->[androidx.biometric:biometric:1.0.1] C:\Users\Robert\.gradle\caches\transforms-2\files-2.1\c2054919278027102047810daf888dae\biometric-1.0.1\AndroidManifest.xml:29:13-78
-38            android:exported="true"
-38-->[androidx.biometric:biometric:1.0.1] C:\Users\Robert\.gradle\caches\transforms-2\files-2.1\c2054919278027102047810daf888dae\biometric-1.0.1\AndroidManifest.xml:30:13-36
-39            android:theme="@style/DeviceCredentialHandlerTheme" />
-39-->[androidx.biometric:biometric:1.0.1] C:\Users\Robert\.gradle\caches\transforms-2\files-2.1\c2054919278027102047810daf888dae\biometric-1.0.1\AndroidManifest.xml:31:13-64
-40    </application>
-41
-42</manifest>
+23        android:theme="@style/Theme.MildlySecureNotepad" >
+23-->C:\GitHubRepos\MildlySecureNotepad_FP\app\src\main\AndroidManifest.xml:11:9-57
+24        <activity android:name="com.robert.mildlysecurenotepadfp.StartActivity" >
+24-->C:\GitHubRepos\MildlySecureNotepad_FP\app\src\main\AndroidManifest.xml:12:9-18:20
+24-->C:\GitHubRepos\MildlySecureNotepad_FP\app\src\main\AndroidManifest.xml:12:19-80
+25            <intent-filter>
+25-->C:\GitHubRepos\MildlySecureNotepad_FP\app\src\main\AndroidManifest.xml:13:13-17:29
+26                <action android:name="android.intent.action.MAIN" />
+26-->C:\GitHubRepos\MildlySecureNotepad_FP\app\src\main\AndroidManifest.xml:14:17-69
+26-->C:\GitHubRepos\MildlySecureNotepad_FP\app\src\main\AndroidManifest.xml:14:25-66
+27
+28                <category android:name="android.intent.category.LAUNCHER" />
+28-->C:\GitHubRepos\MildlySecureNotepad_FP\app\src\main\AndroidManifest.xml:16:17-77
+28-->C:\GitHubRepos\MildlySecureNotepad_FP\app\src\main\AndroidManifest.xml:16:27-74
+29            </intent-filter>
+30        </activity>
+31        <activity android:name="com.robert.mildlysecurenotepadfp.CreatePasswordActivity" />
+31-->C:\GitHubRepos\MildlySecureNotepad_FP\app\src\main\AndroidManifest.xml:19:9-60
+31-->C:\GitHubRepos\MildlySecureNotepad_FP\app\src\main\AndroidManifest.xml:19:19-57
+32        <activity android:name="com.robert.mildlysecurenotepadfp.LogInActivity" />
+32-->C:\GitHubRepos\MildlySecureNotepad_FP\app\src\main\AndroidManifest.xml:20:9-83
+32-->C:\GitHubRepos\MildlySecureNotepad_FP\app\src\main\AndroidManifest.xml:20:19-80
+33        <activity android:name="com.robert.mildlysecurenotepadfp.NotepadActivity" />
+33-->C:\GitHubRepos\MildlySecureNotepad_FP\app\src\main\AndroidManifest.xml:21:9-85
+33-->C:\GitHubRepos\MildlySecureNotepad_FP\app\src\main\AndroidManifest.xml:21:19-82
+34        <activity android:name="com.robert.mildlysecurenotepadfp.MainActivity" />
+34-->C:\GitHubRepos\MildlySecureNotepad_FP\app\src\main\AndroidManifest.xml:22:9-82
+34-->C:\GitHubRepos\MildlySecureNotepad_FP\app\src\main\AndroidManifest.xml:22:19-79
+35        <activity
+35-->[androidx.biometric:biometric:1.0.1] C:\Users\Robert\.gradle\caches\transforms-2\files-2.1\c2054919278027102047810daf888dae\biometric-1.0.1\AndroidManifest.xml:28:9-31:67
+36            android:name="androidx.biometric.DeviceCredentialHandlerActivity"
+36-->[androidx.biometric:biometric:1.0.1] C:\Users\Robert\.gradle\caches\transforms-2\files-2.1\c2054919278027102047810daf888dae\biometric-1.0.1\AndroidManifest.xml:29:13-78
+37            android:exported="true"
+37-->[androidx.biometric:biometric:1.0.1] C:\Users\Robert\.gradle\caches\transforms-2\files-2.1\c2054919278027102047810daf888dae\biometric-1.0.1\AndroidManifest.xml:30:13-36
+38            android:theme="@style/DeviceCredentialHandlerTheme" />
+38-->[androidx.biometric:biometric:1.0.1] C:\Users\Robert\.gradle\caches\transforms-2\files-2.1\c2054919278027102047810daf888dae\biometric-1.0.1\AndroidManifest.xml:31:13-64
+39    </application>
+40
+41</manifest>
